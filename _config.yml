@@ -2,7 +2,7 @@ title:              Pintar Karier
 email:              rizkymaaa@gmail.com
 description:        Website ini bertujuan memberikan & membekali informasi pada bidang pekerjaan, untuk merencanakan dan mengambil keputusan karir
 author:             author
-baseurl:            ""
+baseurl:            "/"
 url:                "https://pintarkarier.github.io"
 
 # Social Profiles
