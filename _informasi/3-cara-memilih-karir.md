@@ -45,6 +45,3 @@ Pekerjaan yang tepat adalah pekerjaan yang bisa membuat kamu merasa bangga. Rasa
 
 Untuk bisa memilih karir dan pekerjaan yang tepat memang butuh pengalaman. Indikasi mudah yang bisa kamu rasakan ketika memilih karir yang tepat adalah kamu akan merasa bahagia dan tidak mengeluh walaupun pekerjaan terasa banyak dan sulit. Jangan takut untuk gagal mencoba sebuah pekerjaan. Kalau kamu gagal, bangkit dan coba lagi. 
 
- 
-
-Berikut adalah noted agar kamu dapat memilih karir yang tepat dan  juga kamu dapat mengetahui siapa diri kamu dan karir apa yang tepat untuk kamu. silahkan  download dan isi pada link dibawah ini.
